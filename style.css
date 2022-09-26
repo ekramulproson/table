@@ -1,0 +1,5 @@
+body{font-family: 'Noto Sans Mono', monospace;}
+table{width:90%;margin-left: 50px; margin-right: 50x;}
+table td{text-align: center;padding: 40px}
+table th{color: yellow;padding: 15px;background-color:black}
+table tr:nth-child(2n+1){background:silver}
